@@ -6,7 +6,7 @@
   "bugs": {
     "url": "https://entrocraft.com/contact/"
   },
-  "description": "Entro Shift is a 32-bit, stateless pseudo-random number generator algorithm.",
+  "description": "Entro Shift is a 32-bit pseudo-random number generator algorithm.",
   "funding": "https://entrocraft.com/pricing/",
   "homepage": "https://entrocraft.com/dungeon/randomization-algorithms/entro-shift/",
   "keywords": [
@@ -32,5 +32,5 @@
   "scripts": {
     "test": "node test"
   },
-  "version": "1.0.7"
+  "version": "1.0.8"
 }

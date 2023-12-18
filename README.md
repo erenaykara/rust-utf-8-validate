@@ -1,6 +1,6 @@
 # Entro Shift
 ## Description
-Entro Shift is a 32-bit, stateless pseudo-random number generator algorithm.
+Entro Shift is a 32-bit pseudo-random number generator algorithm.
 
 ## Code Example
 The following code demonstrates an example implementation in Node.js with the test.js file included in this package.
