@@ -4,8 +4,8 @@ const entro_shift = function(entropy) {
   entropy = (entropy << 31) + (entropy >> 1)
   entropy += entropy << 3
   entropy ^= 1111111111
-  entropy -= entropy << 5
-  return (~entropy >> 1) ^ ~entropy
+  entropy = ~(entropy - (entropy << 5))
+  return (entropy >> 1) ^ entropy
 }
 
 if (
