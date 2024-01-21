@@ -1,0 +1,11 @@
+[package]
+authors = ["Will Parsons"]
+categories = ["embedded", "encoding", "game-development", "internationalization", "no-std"]
+description = "Validate UTF-8 encoding."
+documentation = "https://github.com/entrovoid/rust-utf-8-validate/blob/master/README.md"
+homepage = "https://entrocraft.com/dungeon/character-encoding-algorithms/utf-8-validate/"
+keywords = ["bom", "unicode", "validation"]
+license = "MIT-0"
+name = "utf-8-validate"
+repository = "https://github.com/entrovoid/rust-utf-8-validate"
+version = "0.0.0"
